@@ -54,3 +54,13 @@ button:last-child{
     background-color: #e74c3c;
     color: #fff;
 }
+.profile-image{
+    width: 50px;
+    height: 60px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 3px solid #3498db;
+}
+ tr td:first-child{
+    font-weight: bold;
+ } 
